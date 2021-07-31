@@ -1,0 +1,61 @@
+#MainWindow{
+    background: #ffffff;
+}
+#btn{
+    border-radius: 15px;
+    background: #f6f2f0;
+    border: 2px dotted #48bfe3;
+    font-size: 20px;
+    font-weight: bold;
+    width: 80px;
+    height: 30px;
+}
+#btn2{
+    border-radius: 15px;
+    background: #f6f2f0;
+    border: 2px dotted #ffc8dd;
+    font-size: 20px;
+    font-weight: bold;
+    width: 80px;
+    height: 30px;
+}
+#apiLine{
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 2px dotted #48bfe3;
+}
+#emailLine{
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 2px dotted #48bfe3;
+}
+#queryLine{
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 2px dotted #48bfe3;
+}
+#size{
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 2px dotted #48bfe3;
+}
+#alabel{
+    height:40px;
+    text-align: center;
+}
+#table{
+    border-radius: 0px;
+    border: 2px dotted #48bfe3;
+}
+#process{
+    border-radius: 12px;
+    border: 4px solid #9da2af;
+    background-color: #FFFFFF;
+    text-align: center;
+    height: 20px;
+}
+#process::chunk{
+    background-color: #9da2af;
+
+}
+
